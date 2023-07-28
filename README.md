@@ -1,10 +1,8 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on Android Application Development & NodeJS Applications;
+- 🔭 I’m currently working on NodeJS Applications;
 - 🌱 Currently learning better ways to clean code;
-- 👯 Looking to collaborate on localization projects to PT-BR;
-- 📫 How to reach me: You can DM me in Discord `Maypew#3144` <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="15" height="15">
-- 🤖 I love making Discord Bots!
+- 📫 How to reach me: You can DM me in Discord `maypew` <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="15" height="15">
 
 #### I have a big open source project to start in the future.
 
